@@ -6,5 +6,5 @@ categories: [Living, Test]
 tags: [writing]
 ---
 
-Hello [Baidu.com](baidu.com).
+[**Hello World**](https://baidu.com/)
 
